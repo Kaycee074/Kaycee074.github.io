@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-!(Dbrainiac074.github.io/images/A23.jpg)
+[]!(Dbrainiac074.github.io/images/A23.jpg)
 
 
 
