@@ -2,7 +2,7 @@
 title: "Teaching experience "
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-location: "City, Country"
+
 ---
 
 ## I have served as a teaching assistant for the following courses at RPI:
