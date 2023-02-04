@@ -1,16 +1,17 @@
 ---
 title: "Teaching experience "
 collection: teaching
-permalink: 
+permalink: /teaching/2014-spring-teaching-1
 
 ---
 
-## I have served as a teaching assistant for the following courses at RPI:
 
+
+
+
+I have served as a teaching assistant for the following courses at RPI:
 
 * Embedded Control, Spring 2021
-
-
 * Internetworking of Things(IoT), Spring 2022
 
 
