@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience "
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
+permalink: 
 
 ---
 
