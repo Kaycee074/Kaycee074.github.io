@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-
-
-
-
-
-
 About Me
 ======
 I am a PhD candidate in the  department of [Electrical, Computer and Systems engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
