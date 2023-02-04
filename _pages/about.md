@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Book logo](Dbrainiac074.github.io/images/A23.png)
+![Book logo](/Dbrainiac074.github.io/assets/A23.png)
 
 
 
