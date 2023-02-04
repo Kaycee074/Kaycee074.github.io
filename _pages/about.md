@@ -22,13 +22,13 @@ Some of my current research projects include:
 4. Off-policy evaluation for safe offline reinforcement learning (IBM summer internship)
 
 
-Education
+## Education
 ___
 * B.Sc in Electrical and Electronic Engineering(First Class Honours)
 * Ph.D in Electrical, Computer and Systems Engineering, 2021-Present
 
 
-Recent News
+## Recent News
 ___
 * January 2023- Started working on a funded IBM project: Automating Safe Reinforcement Learning 
 * November 2022- Presented our work at Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
