@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Book logo](Dbrainiac074.github.io/assets/AI3.jpg)
+
+
+
 ## About me
 I am a PhD candidate in the  department of [Electrical, Computer and Systems engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
 
