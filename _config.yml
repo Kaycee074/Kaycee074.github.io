@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Onyejizu"
+title                    : "James Onyejizu's Homepage"
 title_separator          : "-"
 name                     : &name "James Onyejizu"
 description              : &description "PhD Student at RPI"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "James Onyejizu"
+  name             : "James (K.C)  Onyejizu"
   avatar           : "kel.jpeg.jpeg"
-  bio              : "PhD Candidiate @ Rensselaer Polytechnic Institute (RPI): America's oldest technological research university "
+  bio              : "PhD Candidiate @ Rensselaer Polytechnic Institute (RPI): America's Oldest Technological Research University "
   location         : "Troy, New york"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
