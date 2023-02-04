@@ -7,13 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-
-
-
-
 ## About me
 I am a PhD candidate in the  department of [Electrical, Computer and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
 
@@ -32,10 +25,15 @@ ___
 * B.Sc in Electrical and Electronic Engineering (First Class Honours)
 * Ph.D in Electrical, Computer and Systems Engineering, 2021-Present
 
+## Leadership and Extracurricular Activities
+* I am on the E-board of the National Society of Black Engineers(NSBE) and i am also an active member of the Black Grauate Students Association(BGSA) at RPI.
+* During my spare time, i enjoy playing soccer and ping pong and i also code for fun!
+* Fun fact about me: I love to cook and try out new meals.
+
 
 ## Recent News
 ___
-* January 2023 -  Started working on a funded IBM project: Automating Safe Reinforcement Learning 
+* January 2023 -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about): Automating Safe   Reinforcement Learning 
 * November 2022 -  Presented our work at Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
 * June    2022 -  Started working at IBM as a Summer Artificial Intelligence Researcher
 * January 2022 -  Passed Qualifying Exams
