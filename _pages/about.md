@@ -23,7 +23,7 @@ Off-policy evaluation for safe offline reinforcement learning (IBM summer intern
 
 Education
 ======
-B.Sc in Electrical and Electronic Engineering
+B.Sc in Electrical and Electronic Engineering(First Class Honours)
 Ph.D in Electrical, Computer and Systems Engineering, 2021-Present
 
 
