@@ -1,11 +1,11 @@
 ---
 title: "Teaching experience"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: " "
-date: 2021/05/12
-location: "City, Country"
+collection: 
+type: 
+permalink: 
+venue: 
+date: 
+location: 
 ---
 
 ## I have served as a teaching assistant for the following courses at RPI:
