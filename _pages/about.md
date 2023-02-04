@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Book logo](Dbrainiac074.github.io/assets/AI3.jpg)
+![Book logo](/Dbrainiac074.github.io/assets/AI3.jpg)
 
 
 
