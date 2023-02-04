@@ -24,15 +24,15 @@ Some of the current research projects i am involved in include:
 
 ## Education
 ___
-* B.Sc in Electrical and Electronic Engineering(First Class Honours)
+* B.Sc in Electrical and Electronic Engineering (First Class Honours)
 * Ph.D in Electrical, Computer and Systems Engineering, 2021-Present
 
 
 ## Recent News
 ___
-* January 2023-  Started working on a funded IBM project: Automating Safe Reinforcement Learning 
-* November2022-  Presented our work at Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
-* June    2022-  Started working at IBM as a Summer Artificial Intelligence Researcher
-* January 2022-  Passed Qualifying Exams
-* January 2021-  Started the PhD program in ECSE, Rensselaer Polytechnic Institute
+* January 2023 -  Started working on a funded IBM project: Automating Safe Reinforcement Learning 
+* November 2022 -  Presented our work at Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
+* June    2022 -  Started working at IBM as a Summer Artificial Intelligence Researcher
+* January 2022 -  Passed Qualifying Exams
+* January 2021 -  Started the PhD program in ECSE, Rensselaer Polytechnic Institute
 
