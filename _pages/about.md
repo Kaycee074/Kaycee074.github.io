@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-About me
+
 ========
 I am a PhD candidate in the  department of [Electrical, Computer and systems engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
 My primary research interest lies at the intersection of machine learning,  optimization, and control theory. Mainly, I am interested in developing sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, optimization methods for machine learning, and physics-guided deep learning models for learning the parameters of cyber-physical systems. Previously, I worked on developing off-policy evaluation methods for estimating trained policy performance on both safety and reward leveraging offline datasets. In addition to studying the problem of dynamic learning in high-dimensional sparse linear contextual bandits, I am currently involved in developing physics-guided deep learning models to model the dynamics of cyber-physical systems as a convolutional recurrent neural network
