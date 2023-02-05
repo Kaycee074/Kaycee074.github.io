@@ -26,13 +26,13 @@ ___
 * Ph.D in Electrical, Computer and Systems Engineering, 2021-Present
 
 ## Leadership and Extracurricular Activities
+___
 * I am on the E-board of the National Society of Black Engineers(NSBE) and i am also an active member of the Black Graduate Students Association(BGSA) at RPI.
 * During my spare time, i enjoy playing soccer, ping pong and i also code for fun!
 * Fun fact about me: I love to cook and try out new meals.
 
 
-## $${\color{red}Recent\spaceNews}$$
-___
+$${\color{red}Recent \space News}$$
 * January 2023 -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
 * November 2022 -  Presented our work at the Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
 * June    2022 -  Started working at IBM as a Summer Artificial Intelligence Researcher
