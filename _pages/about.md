@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![1pager](https://Dbrainiac.github.io/images/A23.png "Flyer")
+![1pager](https://Dbrainiac074.github.io/images/A23.png "Flyer")
 
 ## About me
 I am a PhD candidate in the  department of [Electrical, Computer and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
