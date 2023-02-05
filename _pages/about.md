@@ -12,7 +12,7 @@ redirect_from:
 
 ## About this website
 ___
-Welcome to my website. I would like to treat this website as a place to share knowledge and interesting projects. You are more than welcome to use any of them and please stay tuned for more updates.
+Welcome to my website. I would like to treat this website as a resource tool for knowledge and interesting tech projects. You are more than welcome to use any of them and please stay tuned for more updates.
 
 ## About me
 ___
