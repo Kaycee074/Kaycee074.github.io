@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "Welcome To my Homepage! "
+title: "Welcome To My Homepage! "
 excerpt: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 ![1pager](https://Dbrainiac074.github.io/images/A23.jpg "Flyer")
+“Young man, in mathematics you don’t understand things. You just get used to them.” ——–John Von Neumann once said to Felix Smith when Smith was afraid about the method of characteristics.
+
+## About this website
+Welcome to my website. I would like to treat this website as a place to share knowledge and interesting projects. You are welcome to use any of them.
 
 ## About me
 I am a PhD candidate in the  department of [Electrical, Computer and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
