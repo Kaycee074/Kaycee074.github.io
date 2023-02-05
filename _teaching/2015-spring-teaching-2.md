@@ -1,5 +1,5 @@
 ---
-title: "ENGR 2350 4961/6 Embedded Control"
+title: "ENGR 2350  Embedded Control"
 collection: teaching
 type: "Course"
 permalink: /teaching/2020-spring-teaching
