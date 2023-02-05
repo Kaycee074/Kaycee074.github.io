@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 ![1pager](https://Dbrainiac074.github.io/images/A23.jpg "Flyer")
-"As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality" - Albert Einstein.
+"As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality" - Albert Einstein. Indeed, the future is certainly unknown, the only thing that is evident is what has happened in the past and that is why we can make predictions through artifical intelligence.
 
 ## About this website
 ___
-Welcome to my website. I would like to treat this website as a place to share knowledge and interesting projects. You are welcome to use any of them and please stay tuned for more updates.
+Welcome to my website. I would like to treat this website as a place to share knowledge and interesting projects. You are more than welcome to use any of them and please stay tuned for more updates.
 
 ## About me
 ___
