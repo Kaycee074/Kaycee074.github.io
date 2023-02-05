@@ -2,7 +2,7 @@
 title: "ENGR 2350  Embedded Control"
 collection: teaching
 type: "Course"
-permalink: /teaching/2020-spring-teaching
+permalink: /teaching/2015-spring-teaching-2
 venue: "Rensselaer Polytechnic Institute, ECSE Department"
 date: 2020-01-07
 location: "Troy, NY"
