@@ -36,7 +36,8 @@ ___
 
 
 
-## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
+## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
+___
 * January 2023 -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
 * November 2022 -  Presented our work at the Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
 * June    2022 -  Started working at IBM as a Summer Artificial Intelligence Researcher
