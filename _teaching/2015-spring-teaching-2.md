@@ -1,18 +1,16 @@
 ---
-title: "Teaching experience "
+title: "ENGR 2350 4961/6 Embedded Control"
 collection: teaching
-permalink: /teaching/2014-spring-teaching-1
-
+type: "Course"
+permalink: /teaching/2020-spring-teaching
+venue: "Rensselaer Polytechnic Institute, ECSE Department"
+date: 2020-01-07
+location: "Troy, NY"
 ---
 
 
 
-
-
-I have served as a teaching assistant for the following courses at RPI:
-
-* Embedded Control, Spring 2021
-* Internetworking of Things(IoT), Spring 2022
-
+- Course Description:
+> In this course , students simultaneously develop the hardware and software of one or more target systems during the semester. Topics include concepts and practices of microcontroller hardware and software for command, sensing, control, and display. Specifically this includes control of dynamic systems and sensor interfaces; analog-digital conversion; parallel input/output; driver circuits, modular programming, and subsystem integration.
 
 
