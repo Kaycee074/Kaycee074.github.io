@@ -32,7 +32,7 @@ ___
 * Fun fact about me: I love to cook and try out new meals.
 
 
-$${\color{red}Rcolor{red}ecent \space News}$$
+$${\color{red}Rcolor{red}e \space News}$$
 $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$ :
 * January 2023 -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
 * November 2022 -  Presented our work at the Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
