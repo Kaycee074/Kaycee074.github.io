@@ -49,5 +49,4 @@ ___
 * January 2022 -  Passed Qualifying Exams
 * January 2021 -  Started the PhD program in Electrical, Computer and Systems Engineering
 
-## "As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality" - Albert Einstein.
 
