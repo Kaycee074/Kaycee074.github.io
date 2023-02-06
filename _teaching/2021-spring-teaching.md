@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2021-spring-teaching
 venue: "Rensselaer Polytechnic Institute, ECSE Department"
-date: 2020-01-07
+date: 2021-01-07
 location: "Troy, NY"
 ---
 
