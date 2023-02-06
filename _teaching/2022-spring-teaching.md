@@ -1,10 +1,10 @@
 ---
-title: "ECSE 4660/6660 Internetworking of Things(IoT)"
+title: "ECSE 6660 Internetworking of Things(IoT)"
 collection: teaching
 type: "Course"
 permalink: /teaching/2022-spring-teaching
 venue: "Rensselaer Polytechnic Institute, ECSE Department"
-date: 2020-01-07
+date: 2021-01-07
 location: "Troy, NY"
 ---
 
