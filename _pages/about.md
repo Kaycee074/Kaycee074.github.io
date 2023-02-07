@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Why not change the world! "
+title: "Welcome!"
 excerpt: " "
 author_profile: true
 redirect_from: 
