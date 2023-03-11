@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![1pager](https://Dbrainiac074.github.io/images/A23.jpg "Flyer")
-*"As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality" - Albert Einstein. 
+*“Young man, in mathematics you don’t understand things. You just get used to them.” ——–John Von Neumann once said to Felix Smith when Smith was afraid about the method of characteristics. 
 
 ## About this website
 ___
