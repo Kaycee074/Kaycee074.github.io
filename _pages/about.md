@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![1pager](https://Dbrainiac074.github.io/images/A23.jpg "Flyer")
-*"As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality" - Albert Einstein. Indeed, the future is certainly unknown, the only thing that is evident is what has happened in the past and that is why we can make accurate predictions through artifical intelligence.*
+*"As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality" - Albert Einstein. 
 
 ## About this website
 ___
@@ -37,7 +37,7 @@ ___
 ___
 * I am on the E-board of the National Society of Black Engineers(NSBE) and i am also an active member of the Black Graduate Students Association(BGSA) at RPI.
 * During my spare time, i enjoy playing soccer, ping pong and i also code for fun!
-* Fun fact about me: I love to cook and try out new meals.
+
 
 
 
