@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![1pager](https://Dbrainiac074.github.io/images/A23.jpg "Flyer")
-*“Young man, in mathematics you don’t understand things. You just get used to them.” ——–John Von Neumann once said to Felix Smith when Smith was afraid about the method of characteristics. 
+*“Young man, in mathematics you don’t understand things. You just get used to them.” ——–John Von Neumann once said to Felix Smith when Smith was afraid about the method of characteristics.* 
 
 ## About this website
 ___
