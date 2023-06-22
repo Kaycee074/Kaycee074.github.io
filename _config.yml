@@ -11,9 +11,9 @@ title                    : "Onyejizu's Homepage"
 title_separator          : "-"
 name                     : &name "James Onyejizu"
 description              : &description "PhD Student at RPI"
-url                      : https://dbrainiac074.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Kaycee074.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Dbrainiac074/Dbrainiac074.github.io"
+repository               : "Kaycee074/Kaycee074.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "James (K.C)  Onyejizu"
   avatar           : "kel.jpeg.jpeg"
-  bio              : "PhD Candidate @ Rensselaer Polytechnic Institute (RPI): America's Oldest Technological Research University "
+  bio              : "PhD Candidate @ Rensselaer Polytechnic Institute (RPI) "
   location         : "Troy, New york"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
