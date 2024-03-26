@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![1pager](https://Kaycee074.github.io/images/A23.jpg "Flyer")
-*“The important thing is not to stop questioning. Curiosity has its own reason for existing* 
+*“The important thing is not to stop questioning. Curiosity has its own reason for existing"* 
 
 
 ## About me
