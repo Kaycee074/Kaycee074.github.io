@@ -34,18 +34,17 @@ ___
 
 ## Leadership and Extracurricular Activities
 ___
-* In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE), where I actively contributed to fostering an environment of support and growth for black engineers. Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. This role allows me to be part of a vibrant community that focuses on the advancement and well-being of black graduate students, providing both professional and personal support.
+* In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE), where I actively contributed to fostering an environment of support and growth for black engineers. Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. 
   
-* Outside my  academic endeavors, I cherish my leisure time, which I spend indulging in various activities that fuel my passion and creativity. I'm an avid soccer and ping pong player, enjoying the competitive yet friendly spirit of the games. Furthermore, coding remains not just a part of my academic pursuit but also a hobby. Programming for fun allows me to explore new ideas and technologies outside the structured demands of my research, keeping my passion for technology and innovation alive and thriving.
+* Outside my  academic endeavors, I cherish my leisure time, which I spend indulging in various activities that fuel my passion and creativity. I'm an avid soccer and ping pong player, enjoying the competitive yet friendly spirit of the games. Furthermore, coding remains not just a part of my academic pursuit but also a hobby, keeping my passion for technology and innovation alive and thriving.
 
 
 
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* May 2024 - I will be attending  the 23rd International Conference on Autonomous Agents and Multi-Agent Systems in Auckland, New Zealand. I would love to chat on
-multi-agent reinforcement learning. Please feel free to reach out to me if you want to chat! 
-* December 2023 - Our work 'Adaptive Primal-Dual Method for Safe Reinforcement Learning' was accepted in  AAMAS.
+* May 2024 - I'll be at the 23rd International Conference on Autonomous Agents and Multi-Agent Systems in Auckland, New Zealand, and am eager to discuss multi-agent AI. Feel free to reach out if you're interested! 
+* December 2023 - Our paper titled "Adaptive Primal-Dual Method for Safe Reinforcement Learning" has been accepted for presentation at the AAMAS conference.
 * January 2023  -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
 * November 2022 -  Presented our work at the Institute for Energy, the Built Environment, and Smart Systems(IEBES) Workshop
 * June    2022 -  Started working at IBM as a Summer Artificial Intelligence Researcher
