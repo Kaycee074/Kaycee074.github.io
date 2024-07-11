@@ -29,8 +29,9 @@ Some of the current research projects I am involved in include:
 
 ## Education
 ___
-* B.Sc in Electrical and Electronic Engineering (First Class Honours)
-* Ph.D. in Electrical, Computer, and Systems Engineering, 2021-Present
+* B.Sc: Electrical and Electronic Engineering (First Class Honours)
+* M.Sc: Computer and Systems Engineering (Distinction)
+* Ph.D: Electrical, Computer, and Systems Engineering 2021-Present
 
 ## Leadership and Extracurricular Activities
 ___
