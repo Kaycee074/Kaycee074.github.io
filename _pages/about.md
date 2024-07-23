@@ -44,7 +44,7 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* July 2024 - Two papers submitted to ## Buildsys.
+* July 2024 - Two papers submitted to  Buildsys.
 * May 2024 - I'll be at the 23rd International Conference on Autonomous Agents and Multi-Agent Systems in Auckland, New Zealand, and I'm eager to discuss multi-agent AI. Feel free to reach out if you're interested! 
 * December 2023 - Our paper titled "Adaptive Primal-Dual Method for Safe Reinforcement Learning" has been accepted for presentation at the AAMAS conference.
 * January 2023  -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
