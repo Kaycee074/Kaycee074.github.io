@@ -12,19 +12,22 @@ redirect_from:
 
 
 ## About me
-___
-I am a graduate student(Ph.D.) in the  Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
+___  
 
-My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-guided deep learning models for learning the parameters of cyber-physical systems. 
-Previously, I worked on developing evaluation methods for estimating reinforcement learning  trained policies on both safety and reward while leveraging offline datasets. 
-Currently, in addition to studying the problem of automating hyperparameter optimization in safe reinforcement learning, I am involved in developing deep learning models based on the "physics" of cyber-physical systems (robots and smart systems) specifically  as a convolutional recurrent neural network.
 
-Some of the current research projects I am involved in include:
+I am an AI research scientist with a solid background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/)
+My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.
+I have diverse experience in working with and analyzing large datasets, applying advanced machine learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
 
-1. Automating safe reinforcement learning 
-2. Machine learning for bi-linear flow models
-3. Physics-guided deep learning of cyber-physical systems
-4. Off-policy evaluation for safe offline reinforcement learning (IBM Summer Research: 2022)
+Some of the past and current research projects I am involved in include:
+
+1. Automating safe reinforcement learning (AIRC Research)
+2. Off-policy evaluation for safe offline reinforcement learning (IBM Summer Research)
+3. Probabilistic Methods for Low rank adaptation(LORA) of Large Language methods
+4. Machine learning for bi-linear flow models
+5. Safety of multimodal machine learning models
+
+
 
 
 ## Education
@@ -44,7 +47,7 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* July 2024 - Two papers submitted to  Buildsys.
+* July 2024 - Two  manuscripts submitted to  Buildsys.
 * May 2024 - I'll be at the 23rd International Conference on Autonomous Agents and Multi-Agent Systems in Auckland, New Zealand, and I'm eager to discuss multi-agent AI. Feel free to reach out if you're interested! 
 * December 2023 - Our paper titled "Adaptive Primal-Dual Method for Safe Reinforcement Learning" has been accepted for presentation at the AAMAS conference.
 * January 2023  -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
