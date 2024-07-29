@@ -15,7 +15,7 @@ redirect_from:
 ___  
 
 
-I am an AI research scientist with a solid background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/)
+I am an AI research scientist with a solid background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
 My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.
 I have diverse experience in working with and analyzing large datasets, applying advanced machine learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
 
