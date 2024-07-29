@@ -19,7 +19,7 @@ I am an AI research scientist with a solid background in machine learning, optim
 My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.
 I have diverse experience in working with and analyzing large datasets, applying advanced machine learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
 
-Some of the past and current research projects I am involved in include:
+My research involvement spans several projects, including:
 
 1. Automating safe reinforcement learning (AIRC Research)
 2. Off-policy evaluation for safe offline reinforcement learning (IBM Summer Research)
