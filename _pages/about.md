@@ -23,7 +23,7 @@ My research involvement spans several projects, including:
 
 1. Automating safe reinforcement learning (AIRC Research)
 2. Off-policy evaluation for safe offline reinforcement learning (IBM Summer Research)
-3. Probabilistic Methods for Low rank adaptation(LORA) of Large Language methods
+3. Probabilistic Methods for Low rank adaptation(LORA) of Large Language models
 4. Machine learning for bi-linear flow models
 5. Safety of multimodal machine learning models
 
