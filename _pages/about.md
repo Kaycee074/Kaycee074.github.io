@@ -17,7 +17,7 @@ ___
 
 I am an AI research scientist with a solid background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
 My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.
-I have diverse experience in working with and analyzing large datasets, applying advanced machine learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
+I have diverse experience in working with and analyzing large datasets, applying advanced machine and deep learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
 
 My research involvement spans several projects, including:
 
@@ -32,13 +32,13 @@ My research involvement spans several projects, including:
 
 ## Education
 ___
-* B.Sc: Electrical and Electronic Engineering (First Class Honours)
-* M.Sc: Computer and Systems Engineering (Distinction)
+* B.Sc: Electrical and Electronics Engineering (First Class Honours and Valedictorian)
+* M.Sc: Computer and Systems Engineering (Distinction: 4.0/4.0)
 * Ph.D: Electrical, Computer, and Systems Engineering 2021-Present
 
 ## Leadership and Extracurricular Activities
 ___
-* In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE), where I actively contributed to fostering an environment of support and growth for black engineers. Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. 
+* In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE). Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. 
   
 * Outside my  academic endeavors, I cherish my leisure time, which I spend indulging in various activities that fuel my passion and creativity. I'm an avid soccer and ping pong player, enjoying the competitive yet friendly spirit of the games. Furthermore, coding remains not just a part of my academic pursuit but also a hobby, keeping my passion for technology and innovation alive and thriving.
 
@@ -47,7 +47,8 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* July 2024 - Two  manuscripts submitted to  Buildsys.
+* July 2024 - Two  manuscripts submitted to  for publication.
+* July 2024 - one paper accepted for presentation.
 * May 2024 - I'll be at the 23rd International Conference on Autonomous Agents and Multi-Agent Systems in Auckland, New Zealand, and I'm eager to discuss multi-agent AI. Feel free to reach out if you're interested! 
 * December 2023 - Our paper titled "Adaptive Primal-Dual Method for Safe Reinforcement Learning" has been accepted for presentation at the AAMAS conference.
 * January 2023  -  Started working on a project funded by IBM through the [Artificial Intelligence Research Collaboration](https://airc.rpi.edu/about) with RPI: Automating Safe   Reinforcement Learning 
