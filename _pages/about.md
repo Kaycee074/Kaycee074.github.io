@@ -39,7 +39,7 @@ ___
 ___
 * In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE). Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. 
   
-* While my passion for math, science, and technology runs deep, I also believe in maintaining a balanced life. I truly value my leisure time, where I engage in a variety of fun and outdoor activities. I'm an enthusiastic football (soccer) and ping pong player, enjoying the energy and camaraderie these sports bring. Alongside tackling complex coding challenges, I also make time for reading both fiction and non-fiction, which broadens my horizons and sparks my creativity.
+* While my passion for math, science, and tech runs deep, I also believe in maintaining a balanced life. I truly value my leisure time, where I engage in a variety of fun and outdoor activities. I'm an enthusiastic football (soccer) and ping pong player, enjoying the energy and camaraderie these sports bring. Alongside tackling complex coding challenges, I also make time for reading both fiction and non-fiction, which broadens my horizons and sparks my creativity.
 
 
 
