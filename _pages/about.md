@@ -15,9 +15,8 @@ redirect_from:
 ___  
 
 
-I am an AI research scientist with a solid background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
-My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.
-I have diverse experience in working with and analyzing large datasets, applying advanced machine and deep learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
+I am an AI research scientist with a  background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
+My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.I have diverse experience in working with and analyzing large datasets, applying advanced machine and deep learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
 
 My research involvement spans several projects, including:
 
@@ -40,7 +39,7 @@ ___
 ___
 * In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE). Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. 
   
-* Outside my  academic endeavors, I cherish my leisure time, which I spend indulging in various activities that fuel my passion and creativity. I'm an avid soccer and ping pong player, enjoying the competitive yet friendly spirit of the games. Furthermore, coding remains not just a part of my academic pursuit but also a hobby, keeping my passion for technology and innovation alive and thriving.
+* While my passion for math, science, and technology runs deep, I also believe in maintaining a balanced life. I truly value my leisure time, where I engage in a variety of fun and outdoor activities. I'm an enthusiastic football (soccer) and ping pong player, enjoying the energy and camaraderie these sports bring. Alongside tackling complex coding challenges, I also make time for reading both fiction and non-fiction, which broadens my horizons and sparks my creativity.
 
 
 
