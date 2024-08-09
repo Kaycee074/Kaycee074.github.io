@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ![1pager](https://Kaycee074.github.io/images/A23.jpg "Flyer")
-*“The important thing is not to stop questioning. Curiosity has its own reason for existing."* 
+*The beauty of math, science, and technology lies in their endless possibilities. Every problem is an invitation to explore, learn, and innovate* 
 
 
 ## About me
