@@ -32,7 +32,7 @@ My research involvement spans several projects, including:
 ## Education
 ___
 * B.Sc: Electrical and Electronics Engineering (First Class Honours and Valedictorian)
-* M.Sc: Computer and Systems Engineering (Distinction: 4.0/4.0)
+* M.Sc: Computer and Systems Engineering (Distinction)
 * Ph.D: Electrical, Computer, and Systems Engineering 2021-Present
 
 ## Leadership and Extracurricular Activities
