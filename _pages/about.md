@@ -46,6 +46,7 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
+* September 2024 - one manuscript accepted for publication at Buildsys(Acceptance Rate: 31%) .
 * July 2024 - Two  manuscripts submitted  for publication.
 * July 2024 - one paper accepted for presentation.
 * May 2024 - I'll be at the 23rd International Conference on Autonomous Agents and Multi-Agent Systems in Auckland, New Zealand, and I'm eager to discuss multi-agent AI. Feel free to reach out if you're interested! 
