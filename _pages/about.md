@@ -16,7 +16,7 @@ ___
 
 
 I am an AI research scientist with a  background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
-My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-Inspired data driven methods for modeling and control  of cyber-physical systems.I have diverse experience in working with and analyzing large datasets, applying advanced machine and deep learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
+My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-inspired data-driven methods for modeling and control  of cyber-physical systems.I have diverse experience in working with and analyzing large datasets, applying advanced machine and deep learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
 
 My research involvement spans several projects, including:
 
@@ -46,6 +46,8 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
+* October 2024 - Happy to pass the doctoral candidacy exam.
+* October 2024 - Happy to receive the highly competitive ACM travel grant award.
 * September 2024 - one manuscript accepted for publication at Buildsys(Acceptance Rate: 31%) .
 * July 2024 - Two  manuscripts submitted  for publication.
 * July 2024 - one paper accepted for presentation.
