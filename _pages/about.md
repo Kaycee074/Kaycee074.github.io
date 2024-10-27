@@ -44,18 +44,17 @@ ___
 
 
 
-## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
-___
-* October 2024 - I am pleased to share that I have passed the **Doctoral Candidacy Examination**
-* October 2024 - I am pleased to share that I have received the highly competitive **ACM travel grant award**
-* September 2024 - One manuscript accepted for publication at **Buildsys** (Acceptance Rate: 31%)
-* May 2024 - I'll be at the **23rd International Conference on Autonomous Agents and Multi-Agent Systems** in **Auckland, New Zealand**, and I'm eager to discuss **multi-agent AI**. Feel free to reach out if you're interested!
-* December 2023 - Our paper titled "**Adaptive Primal-Dual Method for Safe Reinforcement Learning**" has been accepted for presentation at the **AAMAS conference**
-* January 2023 - Started working on a project funded by **IBM** through the [**Artificial Intelligence Research Collaboration**](https://airc.rpi.edu/about) with **RPI**: Automating **Safe Reinforcement Learning**
-* November 2022 - Presented our work at the **Institute for Energy, the Built Environment, and Smart Systems (IEBES) Workshop**
-* June 2022 - Started working at **IBM** as a **Summer Artificial Intelligence Researcher**
-* January 2022 - I am pleased to share that I have passed the **Doctoral Qualifying Examination**
-* January 2021 - Started the **Ph.D. program** in **Electrical, Computer, and Systems Engineering**
+* 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
+* 🏆 **October 2024** - Honored to receive the prestigious **ACM Travel Grant Award**.
+* 📜 **September 2024** - Our manuscript has been **accepted for publication** at **Buildsys** (Acceptance Rate: 31%).
+* 🌏 **May 2024** - Excited to attend the **23rd International Conference on Autonomous Agents and Multi-Agent Systems** in **Auckland, New Zealand**! Looking forward to connecting on **multi-agent AI**—reach out if interested!
+* 📝 **December 2023** - Proud to share our paper, "**Adaptive Primal-Dual Method for Safe Reinforcement Learning**," accepted for presentation at **AAMAS**.
+* 🚀 **January 2023** - Began a new project funded by **IBM** in collaboration with [**RPI’s Artificial Intelligence Research Collaboration**](https://airc.rpi.edu/about): **Automating Safe Reinforcement Learning**.
+* 🗣️ **November 2022** - Presented at the **Institute for Energy, the Built Environment, and Smart Systems (IEBES) Workshop**.
+* 💡 **June 2022** - Joined **IBM** as a **Summer Artificial Intelligence Researcher**.
+* ✅ **January 2022** - Successfully passed the **Doctoral Qualifying Examination**.
+* 🎓 **January 2021** - Embarked on my **Ph.D. journey** in **Electrical, Computer, and Systems Engineering** at **RPI**.
+
 
 
 
