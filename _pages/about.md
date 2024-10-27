@@ -15,31 +15,39 @@ redirect_from:
 ___  
 
 
-I am an AI research scientist with a  background in machine learning, optimization, and control theory. Currently, I am a Ph.D. candidate in the Department of [Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/).
-My primary research interest lies at the intersection of artificial intelligence,  optimization, and control theory. Mainly, I am interested in developing: optimization methods for machine learning, sample efficient and safe policy learning algorithms, methods for evaluating these safe trained policies, and physics-inspired data-driven methods for modeling and control  of cyber-physical systems.I have diverse experience in working with and analyzing large datasets, applying advanced machine and deep learning techniques, and leveraging cloud computing platforms like Google Cloud and AWS.
+I am an **AI Scientist** and **Ph.D. candidate** in the [Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/), specializing in **machine learning, optimization and Occupant-centric control systems**. My research focuses on:
 
-My research involvement spans several projects, including:
+- Developing **optimization methods** for machine learning
+- Creating **sample-efficient, safe policy learning algorithms**
+- Evaluating **safety of trained policies**
+- Designing **physics-inspired, data-driven models** for cyber-physical systems
 
-1. Automating safe reinforcement learning (AIRC Research)
-2. Off-policy evaluation for safe offline reinforcement learning (IBM Summer Research)
-3. Probabilistic Methods for Low rank adaptation(LORA) of Large Language models
-4. Machine learning for bi-linear flow models
-5. Safety of multimodal machine learning models
+I have extensive experience in **large-scale data analysis, advanced machine learning** techniques, and **cloud computing platforms** (Google Cloud, AWS).
+
+### Key Projects
+1. **Automating Safe Reinforcement Learning** (AIRC Research)
+2. **Off-Policy Evaluation for Safe Offline Reinforcement Learning** (IBM Research)
+3. **Probabilistic Low-Rank Adaptation (LoRA) for Large Language Models**
+4. **Machine Learning for Bi-Linear Flow Models**
+5. **Ensuring Safety in Multimodal Machine Learning Models**
+
 
 
 
 
 ## Education
 ___
-* B.Sc: Electrical and Electronics Engineering (First Class Honours and Valedictorian)
-* M.Sc: Computer and Systems Engineering (Distinction)
-* Ph.D: Electrical, Computer, and Systems Engineering 2021-Present
+* **B.Sc**: Electrical & Electronics Engineering - **First Class Honours, Valedictorian**
+* **M.Sc**: Computer & Systems Engineering - **Distinction**
+* **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
 
-## Leadership and Extracurricular Activities
+## Leadership & Extracurriculars
 ___
-* In addition to my academic and research commitments, I've had the honor of serving on the Executive Board of the National Society of Black Engineers (NSBE). Currently, I'm an engaged member of the Black Graduate Students Association (BGSA) at RPI. 
-  
-* While my passion for math, science, and tech runs deep, I also believe in maintaining a balanced life. I truly value my leisure time, where I engage in a variety of fun and outdoor activities. I'm an enthusiastic football (soccer) and ping pong player, enjoying the energy and camaraderie these sports bring. Alongside tackling complex coding challenges, I also make time for reading both fiction and non-fiction, which broadens my horizons and sparks my creativity.
+* Executive Board Member(2022-2023), **National Society of Black Engineers (NSBE) at RPI**
+* Member, **Black Graduate Students Association (BGSA) at RPI**
+
+* Outside academics, I’m all about balance! A passionate **soccer and ping pong** player, I enjoy the thrill and teamwork of sports. I also love taking on **coding challenges** and exploring **fiction & non-fiction** reads.
+
 
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
