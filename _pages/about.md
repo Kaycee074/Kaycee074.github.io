@@ -42,7 +42,8 @@ ___
 * While my passion for math, science, and tech runs deep, I also believe in maintaining a balanced life. I truly value my leisure time, where I engage in a variety of fun and outdoor activities. I'm an enthusiastic football (soccer) and ping pong player, enjoying the energy and camaraderie these sports bring. Alongside tackling complex coding challenges, I also make time for reading both fiction and non-fiction, which broadens my horizons and sparks my creativity.
 
 
-
+## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
+___
 
 * 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
 * 🏆 **October 2024** - Honored to receive the prestigious **ACM Travel Grant Award**.
