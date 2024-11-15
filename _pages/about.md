@@ -15,7 +15,7 @@ redirect_from:
 ___  
 
 
-I am an **AI Scientist** and **Ph.D. candidate** in the [Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/), specializing in **machine learning, optimization and occupant-centric control systems**. My research focuses on:
+I am a **Ph.D. candidate** in the [Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/), specializing in **machine learning, optimization and occupant-centric control systems**. My research focuses on:
 
 - Developing **optimization methods** for machine learning
 - Creating **sample-efficient, safe policy learning algorithms**
