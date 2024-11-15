@@ -22,14 +22,15 @@ I am an **AI Scientist** and **Ph.D. candidate** in the [Department of Electrica
 - Evaluating **safety of trained policies**
 - Designing **physics-inspired, data-driven models** for cyber-physical systems
 
-I have extensive experience in **large-scale data analysis, advanced machine learning** techniques, and **cloud computing platforms** (Google Cloud, AWS).
+I have experience in **large-scale data analysis, advanced machine learning** techniques, and **cloud computing platforms**.
 
 ### Key Projects
 1. **Automating Safe Reinforcement Learning** (AIRC Research)
-2. **Off-Policy Evaluation for Safe Offline Reinforcement Learning** (IBM Research)
-3. **Probabilistic Low-Rank Adaptation (LoRA) for Large Language Models**
-4. **Machine Learning for Bi-Linear Flow Models**
-5. **Ensuring Safety in Multimodal Machine Learning Models**
+2. **Safe and Robust Prompt Tuning of Foundation Models**(AIRC Research)
+3. **Off-Policy Evaluation for Safe Offline Reinforcement Learning using Offline Datasets** (IBM Research)
+4. **Probabilistic Low-Rank Adaptation (LoRA) for Large Language Models**
+5. **Machine Learning for Bi-Linear Flow Models**
+6. **Ensuring Safety in Multimodal Machine Learning Models**
 
 
 
