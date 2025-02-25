@@ -36,7 +36,7 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* 🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)**! 
+* 🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)! 
 * 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
 * 🏆 **October 2024** - Honored to receive the prestigious **ACM Travel Grant Award**.
 * 📜 **September 2024** - Our manuscript has been **accepted for publication** at **Buildsys** (Acceptance Rate: 31%).
