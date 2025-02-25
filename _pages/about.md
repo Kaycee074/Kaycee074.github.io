@@ -15,14 +15,7 @@ redirect_from:
 ___  
 
 
-I am a **Ph.D. candidate** in the [Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/), specializing in **machine learning, optimization and occupant-centric control systems**. My research focuses on:
-
-- Developing **optimization methods** for machine learning
-- Creating **sample-efficient, safe policy learning algorithms**
-- Evaluating **safety of trained policies**
-- Designing **physics-inspired, data-driven models** for cyber-physical systems
-
-I have experience in **large-scale data analysis, advanced machine learning** techniques, and **cloud computing platforms**.
+I am a **machine learning scientist** and a **Ph.D. candidate** in the [Department of Electrical, Computer, and Systems Engineering at Rensselaer Polytechnic Institute](https://ecse.rpi.edu/). My research lies at the intersection of **machine learning, optimization and control systems**. 
 
 ### Key Projects
 1. **Automating Safe Reinforcement Learning** (AIRC Research)
@@ -33,27 +26,17 @@ I have experience in **large-scale data analysis, advanced machine learning** te
 6. **Ensuring Safety in Multimodal Machine Learning Models**
 
 
-
-
-
 ## Education
 ___
 * **B.Sc**: Electrical & Electronics Engineering - **First Class Honours, Valedictorian**
-* **M.Sc**: Computer & Systems Engineering - **Distinction**
+* **M.Sc**: Computer & Systems Engineering (2021 - 2023) **Distinction**
 * **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
-
-## Leadership & Extracurriculars
-___
-* Executive Board Member(2022-2023), **National Society of Black Engineers (NSBE) at RPI**
-* Member, **Black Graduate Students Association (BGSA) at RPI**
-
-* Outside academics, I’m all about balance! A passionate **soccer and ping pong** player, I enjoy the thrill and teamwork of sports. I also love taking on **coding challenges** and exploring **fiction & non-fiction** reads.
 
 
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-
+* 🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)**! 
 * 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
 * 🏆 **October 2024** - Honored to receive the prestigious **ACM Travel Grant Award**.
 * 📜 **September 2024** - Our manuscript has been **accepted for publication** at **Buildsys** (Acceptance Rate: 31%).
