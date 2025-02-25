@@ -29,7 +29,7 @@ I am a **machine learning scientist** and a **Ph.D. candidate** in the [Departme
 ## Education
 ___
 * **B.Sc**: Electrical & Electronics Engineering - **First Class Honours, Valedictorian**
-* **M.Sc**: Computer & Systems Engineering (2021 - 2023) **Distinction**
+* **M.Sc**: Computer & Systems Engineering (2021 - 2023)- **Distinction**
 * **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
 
 
