@@ -49,19 +49,6 @@ ___
   </div>
 </section>
 
-<script>
-  document.getElementById('toggleArchive').addEventListener('click', function() {
-    const archiveDiv = document.getElementById('archiveNews');
-    if (archiveDiv.style.display === 'none') {
-      archiveDiv.style.display = 'block';
-      this.textContent = 'Hide Archive';
-    } else {
-      archiveDiv.style.display = 'none';
-      this.textContent = 'Show Archive';
-    }
-  });
-</script>
-
 
 
 
