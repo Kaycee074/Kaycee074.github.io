@@ -33,41 +33,58 @@ ___
 * **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
 
 
-<section class="news-section">
-  <h2 style="color: red;">Recent News</h2>
-  <ul class="news-list">
-    <li>🎉 <strong>February 2025</strong> - Submitted one manuscript (IEEE Control Conference)!</li>
-  </ul>
-  <button id="toggleArchive">Show Archive</button>
-  <div id="archiveNews" style="display: none;">
-    <ul>
-      <li>🎉 <strong>October 2024</strong> - Passed the Doctoral Candidacy Examination!</li>
-      <li>🏆 <strong>October 2024</strong> - Received the prestigious ACM Travel Grant Award.</li>
-      <li>📜 <strong>September 2024</strong> - Manuscript accepted for publication at Buildsys.</li>
-      <!-- More older updates here -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>News Archive Example</title>
+</head>
+<body>
+  <section class="news-section">
+    <h2 style="color: red;">Recent News</h2>
+    <ul class="news-list">
+      <li>🎉 <strong>February 2025</strong> - Submitted one manuscript (IEEE Control Conference)!</li>
     </ul>
-  </div>
-</section>
+    <button id="toggleArchive">Show Archive</button>
+    <div id="archiveNews" style="display: none;">
+      <ul>
+        <li>🎉 <strong>October 2024</strong> - Passed the Doctoral Candidacy Examination!</li>
+        <li>🏆 <strong>October 2024</strong> - Received the prestigious ACM Travel Grant Award.</li>
+        <li>📜 <strong>September 2024</strong> - Manuscript accepted for publication at Buildsys.</li>
+        <!-- More older updates here -->
+      </ul>
+    </div>
+  </section>
 
-<script>
-  // Wait for the DOM to load before attaching the event listener
-  document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('toggleArchive').addEventListener('click', function() {
+  <script>
+    // Wait for the DOM to fully load
+    document.addEventListener('DOMContentLoaded', function() {
+      const toggleButton = document.getElementById('toggleArchive');
       const archiveDiv = document.getElementById('archiveNews');
-      // Toggle display state
-      if (archiveDiv.style.display === 'none') {
-        archiveDiv.style.display = 'block';
-        this.textContent = 'Hide Archive';
-      } else {
-        archiveDiv.style.display = 'none';
-        this.textContent = 'Show Archive';
+
+      // Debug logging to ensure elements are found
+      console.log("Toggle Button:", toggleButton);
+      console.log("Archive Div:", archiveDiv);
+
+      if (!toggleButton || !archiveDiv) {
+        console.error("Missing toggle button or archive div");
+        return;
       }
+
+      toggleButton.addEventListener('click', function() {
+        console.log("Archive button clicked");
+        // Check the current display state (handling empty style as well)
+        if (archiveDiv.style.display === 'none' || archiveDiv.style.display === '') {
+          archiveDiv.style.display = 'block';
+          toggleButton.textContent = 'Hide Archive';
+          console.log("Archive shown");
+        } else {
+          archiveDiv.style.display = 'none';
+          toggleButton.textContent = 'Show Archive';
+          console.log("Archive hidden");
+        }
+      });
     });
-  });
-</script>
-
-
-
-
-
-
+  </script>
+</body>
+</html>
