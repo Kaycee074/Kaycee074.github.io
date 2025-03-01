@@ -33,7 +33,7 @@ ___
 * **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
 
 
-# Recent News
+
 
 <section class="news-section">
   <h2 style="color: red;">Recent News</h2>
