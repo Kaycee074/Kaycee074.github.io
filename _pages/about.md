@@ -34,7 +34,7 @@ ___
 
 
 <section class="news-section">
-  <h2>Recent News</h2>
+  <h2 style="color: red;">Recent News</h2>
   <ul class="news-list">
     <li>🎉 <strong>February 2025</strong> - Submitted one manuscript (IEEE Control Conference)!</li>
   </ul>
