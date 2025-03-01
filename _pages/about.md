@@ -38,31 +38,38 @@ ___
 <section class="news-section">
   <h2 style="color: red;">Recent News</h2>
   <ul class="news-list">
-    <li>🎉 <strong>February 2025</strong> - Submitted one manuscript (IEEE Control Conference)!</li>
+    <li>🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)!</li>
   </ul>
-  <button id="toggleArchive">Show Archive</button>
+
+  <!-- Hidden checkbox to control toggle -->
+  <input type="checkbox" id="toggleArchive" style="display:none;">
+  <!-- Label that acts as a button -->
+  <label for="toggleArchive" id="toggleLabel" style="cursor: pointer; color: blue;">Show Archive</label>
+
   <div id="archiveNews" style="display: none;">
     <ul>
-      <li>🎉 <strong>October 2024</strong> - Passed the Doctoral Candidacy Examination!</li>
-      <li>🏆 <strong>October 2024</strong> - Received the prestigious ACM Travel Grant Award.</li>
-      <li>📜 <strong>September 2024</strong> - Manuscript accepted for publication at Buildsys.</li>
+      <li>🎉 **October 2024** - Passed the Doctoral Candidacy Examination!</li>
+      <li>🏆 **October 2024** - Received the prestigious ACM Travel Grant Award.</li>
+      <li>📜 **September 2024** - Manuscript accepted for publication at Buildsys.</li>
     </ul>
   </div>
 </section>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var toggleButton = document.getElementById('toggleArchive');
-    var archiveDiv = document.getElementById('archiveNews');
-    toggleButton.addEventListener('click', function() {
-      // Toggle the display state
-      if (archiveDiv.style.display === 'none' || archiveDiv.style.display === '') {
-        archiveDiv.style.display = 'block';
-        toggleButton.textContent = 'Hide Archive';
-      } else {
-        archiveDiv.style.display = 'none';
-        toggleButton.textContent = 'Show Archive';
-      }
-    });
-  });
-</script>
+<style>
+  /* When the checkbox is checked, display the archive */
+  #toggleArchive:checked ~ #archiveNews {
+    display: block;
+  }
+  /* Change the label text when the checkbox is checked */
+  #toggleArchive:checked ~ #toggleLabel::after {
+    content: " Hide Archive";
+  }
+  /* Default label text */
+  #toggleLabel::after {
+    content: " Show Archive";
+  }
+  /* Optionally, hide the original text inside the label if any */
+  #toggleLabel {
+    color: blue;
+  }
+</style>
