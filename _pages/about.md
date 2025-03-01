@@ -35,22 +35,19 @@ ___
 
 
 
-<section class="news-section">
-  <h2 style="color: red;">Recent News</h2>
-  <ul class="news-list">
-    <li>🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)!</li>
-  </ul>
+# Recent News
 
-  <!-- Hidden checkbox to control toggle -->
-  <input type="checkbox" id="toggleArchive" style="display:none;">
-  <!-- Label that acts as a button -->
-  <label for="toggleArchive" id="toggleLabel" style="cursor: pointer; color: blue;">Show Archive</label>
+<section>
+  <input type="checkbox" id="toggleArchive" style="display: none;">
+  <label for="toggleArchive" id="toggleLabel" style="cursor: pointer;">
+    Show Archive
+  </label>
 
   <div id="archiveNews" style="display: none;">
     <ul>
-      <li>🎉 **October 2024** - Passed the Doctoral Candidacy Examination!</li>
-      <li>🏆 **October 2024** - Received the prestigious ACM Travel Grant Award.</li>
-      <li>📜 **September 2024** - Manuscript accepted for publication at Buildsys.</li>
+      <li>October 2024 - Passed Doctoral Candidacy Exam</li>
+      <li>October 2024 - Received ACM Travel Grant Award</li>
+      <li>September 2024 - Manuscript accepted at Buildsys</li>
     </ul>
   </div>
 </section>
@@ -60,15 +57,18 @@ ___
   #toggleArchive:checked ~ #archiveNews {
     display: block;
   }
+
   /* Change the label text when the checkbox is checked */
   #toggleArchive:checked ~ #toggleLabel::after {
     content: " Hide Archive";
   }
+
   /* Default label text */
   #toggleLabel::after {
     content: " Show Archive";
   }
-  /* Optionally, hide the original text inside the label if any */
+
+  /* Optional label styling */
   #toggleLabel {
     color: blue;
   }
