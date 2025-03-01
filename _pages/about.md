@@ -33,18 +33,35 @@ ___
 * **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
 
 
+<section class="news-section">
+  <h2>Recent News</h2>
+  <ul class="news-list">
+    <li>🎉 <strong>February 2025</strong> - Submitted one manuscript (IEEE Control Conference)!</li>
+  </ul>
+  <button id="toggleArchive">Show Archive</button>
+  <div id="archiveNews" style="display: none;">
+    <ul>
+      <li>🎉 <strong>October 2024</strong> - Passed the Doctoral Candidacy Examination!</li>
+      <li>🏆 <strong>October 2024</strong> - Received the prestigious ACM Travel Grant Award.</li>
+      <li>📜 <strong>September 2024</strong> - Manuscript accepted for publication at Buildsys.</li>
+      <!-- More older updates here -->
+    </ul>
+  </div>
+</section>
 
-## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
-___
-* 🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)! 
-* 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
-* 🏆 **October 2024** - Honored to receive the prestigious **ACM Travel Grant Award**.
-* 📜 **September 2024** - Our manuscript has been **accepted for publication** at **Buildsys** (Acceptance Rate: 31%).
-* 📝 **December 2023** - Proud to share our paper, "**Adaptive Primal-Dual Method for Safe Reinforcement Learning**," accepted for presentation at **AAMAS**.
-* 🚀 **January 2023** - Began a new project funded by **IBM** in collaboration with [**RPI’s Artificial Intelligence Research Collaboration**](https://airc.rpi.edu/about): **Automating Safe Reinforcement Learning**.
-* 💡 **June 2022** - Joined **IBM** as a **Summer Artificial Intelligence Researcher**.
-* ✅ **January 2022** - Successfully passed the **Doctoral Qualifying Examination**.
-* 🎓 **January 2021** - Embarked on my **Ph.D. journey** in **Electrical, Computer, and Systems Engineering** at **RPI**.
+<script>
+  document.getElementById('toggleArchive').addEventListener('click', function() {
+    const archiveDiv = document.getElementById('archiveNews');
+    if (archiveDiv.style.display === 'none') {
+      archiveDiv.style.display = 'block';
+      this.textContent = 'Hide Archive';
+    } else {
+      archiveDiv.style.display = 'none';
+      this.textContent = 'Show Archive';
+    }
+  });
+</script>
+
 
 
 
