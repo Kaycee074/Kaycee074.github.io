@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Onyejizu's Homepage"
 title_separator          : "-"
 name                     : &name "James Onyejizu"
-description              : &description "PhD Student at RPI"
+description              : &description "PhD Candidate at RPI"
 url                      : https://Kaycee074.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kaycee074/Kaycee074.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "James Kelechi Onyejizu"
-  avatar           : "kel1.jpg.jpg"
+  avatar           : "kC.jpg"
   bio              : "Ph.D. Candidate @ Rensselaer Polytechnic Institute (RPI) "
   location         : "Troy, New york"
   employer         :
