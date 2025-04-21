@@ -37,7 +37,7 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* 🏆 **April 2025** - Honored to receive the  **Dr. Alireza Seyedi ’99, ’04  Award at Rensselaer**. This award has been established in memory of Alireza Seyedi.  Dr. Seyedi was a student in ECSE from 1998 through 2004, receiving his Master’s degree in 1999 and PhD in 2004.  While a graduate student, he distinguished himself not only as an outstanding researcher but also as excellent teacher.
+* 🏆 **April 2025** - Honored to receive the  **Dr. Alireza Seyedi ’99, ’04  Award at Rensselaer**. This award has been established in memory of Alireza Seyedi.  Dr. Seyedi was a graduate student in ECSE from 1998 through 2004, receiving his Master’s degree in 1999 and PhD in 2004.  While a graduate student, he distinguished himself not only as an outstanding researcher but also as excellent teacher.
 * 🎉 **April 2025** - Submitted one manuscript (IEEE Transactions on Energy Markets, Policy, and Regulation)! 
 * 🎉 **February 2025** - Submitted one manuscript (IEEE Control Conference)! 
 * 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
