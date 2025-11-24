@@ -37,7 +37,7 @@ ___
 
 ## $${\color{red}R \color{red}e \color{red}c \color{red}e \color{red}n \color{red}t \space \color{red}n \color{red}e \color{red}w \color{red}s }$$ 
 ___
-* 🎉 **November 2025** - Presented two of our works on **Graph Based Learning for IAQ in complex Indoor Environments** at ACM BALANCE and ACM Buildsys.
+* 🎉 **November 2025** - Presented two of our works on **Graph Based Learning for IAQ in complex Indoor Environments** at ACM BALANCE and ACM BUILDSYS.
 * 🏆 **October 2025** - Honored to receive the  **2025 Graduate Teaching Excellence Award at Rensselaer**
 * 🏆 **April 2025** - Honored to receive the  **Dr. Alireza Seyedi ’99, ’04  Award at Rensselaer**
 * 🎉 **October 2024** - Thrilled to announce I’ve passed the **Doctoral Candidacy Examination**! 
