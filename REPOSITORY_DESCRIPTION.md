@@ -29,7 +29,7 @@ The repository serves as:
   - `github-pages`: GitHub Pages integration
   - `jekyll-feed`: RSS feed generation
   - `jekyll-sitemap`: Sitemap generation
-  - `hawkins`: LiveReload support
+  - `hawkins`: Enhanced LiveReload support for Jekyll development
   
 - **Node.js packages**:
   - `uglify-js`: JavaScript minification
@@ -178,7 +178,8 @@ Machine learning scientist with research at the intersection of:
 - **M.Sc**: Computer & Systems Engineering - Distinction
 - **Ph.D**: Electrical, Computer, & Systems Engineering (2021 - Present)
 
-### Recent News (as of November 2025)
+### Recent News (as documented in the About page)
+*Note: This information reflects the content as of December 2024. Please refer to the website for the most up-to-date news.*
 - November 2025: Presented work on Graph Based Learning for IAQ at ACM BALANCE and ACM BUILDSYS
 - October 2025: Received 2025 Graduate Teaching Excellence Award at Rensselaer
 - April 2025: Received Dr. Alireza Seyedi '99, '04 Award at Rensselaer
@@ -239,7 +240,7 @@ Machine learning scientist with research at the intersection of:
 - **Description**: "PhD Candidate at RPI"
 - **URL**: https://Kaycee074.github.io
 - **Repository**: Kaycee074/Kaycee074.github.io
-- **Timezone**: America/Los_Angeles
+- **Timezone**: America/Los_Angeles (configurable in _config.yml)
 
 ### Collections
 The site uses Jekyll collections for organizing content:
@@ -277,7 +278,7 @@ The site is automatically deployed to GitHub Pages when changes are pushed to th
 
 ### GitHub Pages Settings
 - Repository: Kaycee074/Kaycee074.github.io
-- Branch: Typically `main` or `master`
+- Branch: `master` (default branch for this repository)
 - URL: https://Kaycee074.github.io
 
 ## Maintenance Notes
