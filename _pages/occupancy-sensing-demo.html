@@ -1,0 +1,162 @@
+---
+layout: demo
+title: "Privacy-Preserving Occupancy Sensing"
+permalink: /occupancy-sensing-demo/
+excerpt: "Interactive demonstration of multimodal occupancy and activity sensing without conventional cameras."
+author_profile: false
+---
+
+<header class="demo-hero">
+  <p class="demo-eyebrow">Interactive research prototype · Privacy-preserving sensing</p>
+  <h1>Can a room understand occupancy and human activity without conventional cameras?</h1>
+  <p class="demo-lede">
+    Follow a two-person reference scenario through color, coarse depth, CO2, and temperature sensing—then see what transparent sensor fusion gets right and wrong.
+  </p>
+</header>
+
+<section class="demo-flow" aria-labelledby="demo-flow-title">
+  <h2 id="demo-flow-title">From a known room to an honest estimate</h2>
+  <ol>
+    <li><strong>Reference state</strong><span>Known occupancy and activity states</span></li>
+    <li><strong>Physical environment</strong><span>One shared conference-room scenario</span></li>
+    <li><strong>Privacy-preserving sensors</strong><span>Color + ToF + CO2 + temperature</span></li>
+    <li><strong>Sensor features</strong><span>Motion, coarse position, concentration, thermal context</span></li>
+    <li><strong>Evidence-weighted fusion</strong><span>No large black-box model</span></li>
+    <li><strong>Comparison</strong><span>Prediction versus the reference state</span></li>
+  </ol>
+</section>
+
+<div id="demo-loading" class="demo-message" role="status">Loading synchronized sensor data…</div>
+<div id="demo-error" class="demo-message demo-message--error" role="alert" hidden></div>
+
+<section class="demo-controls" aria-label="Demo timeline and sensor controls" hidden>
+  <div class="demo-controls__transport">
+    <button type="button" id="demo-play" class="demo-control-button" data-testid="play">Play</button>
+    <button type="button" id="demo-restart" class="demo-control-button demo-control-button--quiet">Restart</button>
+    <label for="demo-timeline">Master timeline <output id="demo-time" for="demo-timeline">0:00.0</output></label>
+    <input id="demo-timeline" data-testid="timeline" type="range" min="0" max="600" value="0" step="1" aria-label="Scenario timestamp">
+  </div>
+
+  <fieldset class="demo-sensor-toggles">
+    <legend>Evidence included in fusion</legend>
+    <label><input type="checkbox" value="color" checked> Color</label>
+    <label><input type="checkbox" value="tof" checked> ToF</label>
+    <label><input type="checkbox" value="co2" checked> CO2</label>
+    <label><input type="checkbox" value="temperature" checked> Temperature</label>
+  </fieldset>
+
+  <label class="demo-challenge-control" for="demo-challenge">
+    Sensor challenge
+    <select id="demo-challenge" data-testid="challenge">
+      <option value="baseline">Nominal conditions</option>
+      <option value="tof_occlusion">ToF occlusion</option>
+      <option value="color_noise">Color-sensor noise</option>
+      <option value="lingering_co2">Lingering elevated CO2</option>
+      <option value="temperature_noise">Noisy temperature</option>
+    </select>
+    <span id="demo-challenge-description"></span>
+  </label>
+</section>
+
+<div class="demo-visuals" hidden>
+  <section class="demo-panel demo-panel--ground-truth" aria-labelledby="ground-truth-title">
+    <div class="demo-panel__heading">
+      <div>
+        <p class="demo-panel__kicker">Evaluation reference</p>
+        <h2 id="ground-truth-title">Reference occupancy state</h2>
+      </div>
+      <dl class="demo-current-values">
+        <div><dt>Occupancy</dt><dd id="truth-occupancy">0</dd></div>
+        <div><dt>Activity</dt><dd id="truth-activity">Empty</dd></div>
+      </dl>
+    </div>
+    <svg id="ground-truth-room" class="demo-room" viewBox="0 0 800 600" role="img" aria-label="Top-down room and reference occupant positions"></svg>
+  </section>
+
+  <section class="demo-panel" aria-labelledby="color-view-title">
+    <div class="demo-panel__heading">
+      <div>
+        <p class="demo-panel__kicker">57 distributed points</p>
+        <h2 id="color-view-title">Color sensor view</h2>
+      </div>
+      <p class="demo-live-value"><span>Motion score</span><strong id="color-motion">0.00</strong></p>
+    </div>
+    <svg id="color-sensor-room" class="demo-room" viewBox="0 0 800 600" role="img" aria-label="Spatial response strength of 57 color sensors"></svg>
+    <p class="demo-caption">Larger, brighter points indicate stronger illumination and chromaticity disturbance.</p>
+  </section>
+
+  <section class="demo-panel" aria-labelledby="tof-view-title">
+    <div class="demo-panel__heading">
+      <div>
+        <p class="demo-panel__kicker">8 × 8 depth only</p>
+        <h2 id="tof-view-title">Time-of-flight view</h2>
+      </div>
+      <p class="demo-live-value"><span>Estimated blobs</span><strong id="tof-blobs">0</strong></p>
+    </div>
+    <div id="tof-grid" class="demo-tof-grid" role="img" aria-label="Low-resolution depth map"></div>
+    <p class="demo-caption">No RGB image is produced. Nearby occupants can merge into one coarse blob.</p>
+  </section>
+
+  <section class="demo-panel" aria-labelledby="environment-title">
+    <div class="demo-panel__heading">
+      <div>
+        <p class="demo-panel__kicker">Slow contextual evidence</p>
+        <h2 id="environment-title">Environmental sensors</h2>
+      </div>
+      <dl class="demo-current-values demo-current-values--environment">
+        <div><dt>CO2</dt><dd><span id="co2-value">420</span> ppm</dd></div>
+        <div><dt>Temperature</dt><dd><span id="temperature-value">22.00</span> °C</dd></div>
+      </dl>
+    </div>
+    <canvas id="environment-chart" class="demo-chart" role="img" aria-label="Synchronized CO2 and temperature traces"></canvas>
+    <p class="demo-caption">CO2 and temperature respond slowly and do not determine precise activity.</p>
+  </section>
+</div>
+
+<section class="demo-fusion" aria-labelledby="fusion-title" hidden>
+  <div class="demo-panel__heading">
+    <div>
+      <p class="demo-panel__kicker">Interpretable evidence weighting</p>
+      <h2 id="fusion-title">Sensor fusion</h2>
+    </div>
+    <p id="fusion-match" class="demo-match" aria-live="polite">Awaiting data</p>
+  </div>
+
+  <div class="demo-fusion__outcomes">
+    <article>
+      <p>Predicted occupancy</p>
+      <strong id="fusion-occupancy" data-testid="fusion-occupancy">0</strong>
+      <span><span id="fusion-occupancy-confidence">0</span>% confidence</span>
+      <div id="occupancy-probabilities" class="demo-probabilities" aria-label="Occupancy probabilities"></div>
+    </article>
+    <article>
+      <p>Predicted activity</p>
+      <strong id="fusion-activity" data-testid="fusion-activity">Empty</strong>
+      <span><span id="fusion-activity-confidence">0</span>% confidence</span>
+      <div id="activity-probabilities" class="demo-probabilities" aria-label="Activity probabilities"></div>
+    </article>
+  </div>
+
+  <h3>What each modality currently believes</h3>
+  <div id="modality-estimates" class="demo-modalities"></div>
+</section>
+
+<section class="demo-method" aria-labelledby="method-title">
+  <div>
+    <p class="demo-panel__kicker">Methodology and scope</p>
+    <h2 id="method-title">Transparent evidence weighting with explicit limits</h2>
+  </div>
+  <p>
+    This interactive prototype uses a model-generated reference scenario to illustrate signal behavior. Physical sensor equations produce the displayed streams; noise, occlusion, response lag, and coarse resolution are added before features and fusion are computed. These results have not been validated against measurements from a deployed room.
+  </p>
+  <details>
+    <summary>Technical notes and limitations</summary>
+    <ul>
+      <li>The color model is phenomenological, not a full optical ray tracer.</li>
+      <li>The ToF model is an 8 × 8 overhead depth abstraction with merging and missed regions.</li>
+      <li>CO2 uses a well-mixed-zone mass balance; temperature uses a first-order thermal model.</li>
+      <li>Fusion uses fixed, documented evidence weights and signal-quality checks—not deep learning.</li>
+      <li>Accuracy values characterize this reference case only and should not be interpreted as deployed performance.</li>
+    </ul>
+  </details>
+</section>
