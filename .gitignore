@@ -1,7 +1,2 @@
 _site/
-.venv/
-__pycache__/
-.pytest_cache/
-*.py[cod]
-simulation/diagnostics_output/
 
