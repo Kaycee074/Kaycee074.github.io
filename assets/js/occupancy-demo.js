@@ -307,11 +307,41 @@
     if (window.ResizeObserver) new ResizeObserver(function () { if (state.data) drawEnvironment(state.index); }).observe(elements.environmentChart);
   };
 
-  fetch(root.dataset.dataUrl)
-    .then(function (response) {
-      if (!response.ok) throw new Error("Sensor data returned HTTP " + response.status + ".");
-      return response.json();
-    })
+  const loadData = function () {
+    const partCount = Number(root.dataset.dataParts || "0");
+    const urls = partCount > 0
+      ? Array.from({ length: partCount }, function (_, index) {
+        return root.dataset.dataUrl + ".part" + String(index).padStart(2, "0");
+      })
+      : [root.dataset.dataUrl];
+
+    return Promise.all(urls.map(function (url) {
+      return fetch(url).then(function (response) {
+        if (!response.ok) throw new Error("Sensor data returned HTTP " + response.status + ".");
+        return response.arrayBuffer();
+      });
+    })).then(function (buffers) {
+      const byteLength = buffers.reduce(function (total, buffer) { return total + buffer.byteLength; }, 0);
+      const bytes = new Uint8Array(byteLength);
+      let offset = 0;
+      buffers.forEach(function (buffer) {
+        bytes.set(new Uint8Array(buffer), offset);
+        offset += buffer.byteLength;
+      });
+
+      if (root.dataset.dataUrl.endsWith(".gz")) {
+        if (typeof DecompressionStream === "undefined") {
+          throw new Error("This browser cannot decode the compressed sensor data.");
+        }
+        const compressedStream = new Blob([bytes]).stream();
+        const decompressedStream = compressedStream.pipeThrough(new DecompressionStream("gzip"));
+        return new Response(decompressedStream).json();
+      }
+      return new Response(bytes).json();
+    });
+  };
+
+  loadData()
     .then(function (data) {
       state.data = data;
       elements.timeline.max = data.timestamps_s.length - 1;
