@@ -10,6 +10,12 @@ redirect_from:
 ![1pager](https://Kaycee074.github.io/images/A23.jpg "Flyer")
 *The beauty of math, science, and technology lies in their endless possibilities. Every problem is an invitation to explore, learn, and innovate.* 
 
+<div class="notice--info" markdown="1">
+**New interactive research demo:** See how color, time-of-flight, CO₂, and temperature signals can be fused into room-occupancy and activity estimates using synchronized reference signals.
+
+[Explore the occupancy-sensing demo →]({{ '/occupancy-sensing-demo/' | relative_url }}){: .btn .btn--primary}
+</div>
+
 
 ## About me
 ___  

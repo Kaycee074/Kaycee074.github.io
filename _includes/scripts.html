@@ -1,4 +1,7 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+{% if page.layout == "demo" %}
+<script src="{{ base_path }}/assets/js/occupancy-demo.js?v=20260821-3" defer></script>
+{% endif %}
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
