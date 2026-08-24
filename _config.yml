@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Onyejizu's Homepage"
+title                    : "James Kelechi Onyejizu"
 title_separator          : "-"
-name                     : &name "James Onyejizu"
-description              : &description "PhD Candidate at RPI"
-url                      : https://Kaycee074.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "James Kelechi Onyejizu"
+description              : &description "Machine learning scientist and Ph.D. candidate working on safe AI, privacy-aware sensing, optimization, and control systems."
+url                      : https://kaycee074.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kaycee074/Kaycee074.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,13 +62,15 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "og-james-onyejizu.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "James Kelechi Onyejizu"
+  links:
+    - "https://www.linkedin.com/in/james-onyejizu-662205118/"
+    - "https://github.com/Kaycee074"
 
 
 # Analytics
@@ -81,11 +83,11 @@ analytics:
 # Site Author
 author:
   name             : "James Kelechi Onyejizu"
-  avatar           : "KC1.jpg"
-  bio              : "Ph.D. Candidate @ Rensselaer Polytechnic Institute (RPI) "
-  location         : "Troy, New york"
+  avatar           : "james-onyejizu-headshot.jpg"
+  bio              : "Machine learning scientist and Ph.D. candidate at Rensselaer Polytechnic Institute."
+  location         : "Troy, New York"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "onyejj@rpi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Dbrainiac074"
+  github           : "Kaycee074"
   google_plus      :
   keybase          :
   instagram        : "techh_gk"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/james-onyejizu-662205118/"
+  linkedin         : "james-onyejizu-662205118"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : " "
+  twitter          :
   vine             :
   weibo            :
   xing             :
