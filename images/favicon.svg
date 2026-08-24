@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="James Kelechi Onyejizu">
+  <rect width="64" height="64" rx="14" fill="#162a3a"/>
+  <path d="M8 13h19v28c0 8.5-4.8 13-13 13-4.4 0-7.8-1.2-10.8-3.5l4-7.2c2.2 1.6 4 2.4 6 2.4 3.2 0 4.8-1.8 4.8-5.3V21H8z" fill="#fffaf2"/>
+  <path d="M31 13h9v16.2L52.5 13H63L48.3 31.2 64 54H53.2L42.5 37.8 40 40.7V54h-9z" fill="#4fd1c5"/>
+</svg>
